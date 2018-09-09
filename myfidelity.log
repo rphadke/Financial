@@ -1,0 +1,336 @@
+USERNAME: Success(POST): 200
+    
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        <TITLE>Not Available</TITLE>
+
+        <META name="OASIS" content="438144.3.0">
+        <meta name="description" content="Log in to your Fidelity Investments or NetBenefits accounts here.">
+        <meta name="description" content="Log in to your Fidelity Investments or NetBenefits accounts here."/>
+        <META http-equiv="Expires" content="Mon 13 Jun 1988 00:00:00 GMT">
+        <META http-equiv="pragma" content="no-cache">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+        <META name="eReview" content="#">
+        <!--[if lt IE 9]>
+        <script src="/ftgw/pages/js/common/html5shiv.js"></script>
+        <![endif]-->
+        
+		<!-- Start Measurement Code:  Do not remove.  -->
+		<script language="JavaScript" type="text/javascript" src="https://nexus.ensighten.com/fidelity/prod/Bootstrap.js"></script>
+		<!-- End Measurement Code:  Do not remove.  -->
+        
+        <link href="/ftgw/pages/css/common/bootstrap.3.2.css" rel="stylesheet" type="text/css" media="screen, print"/>
+        <link href="/ftgw/pages/css/common/bootstrap-theme.css" rel="stylesheet" type="text/css" media="screen, print"/>
+        <link href="/ftgw/pages/css/retail/defaultWeb/retailResponsive.css" rel="stylesheet" type="text/css" media="screen, print"/>
+
+    </head>
+
+    <body>
+        <div class="container">
+
+            <header id="header" role="banner">
+                <div class="lockIcon"></div>
+                <a title="Go to Fidelity homepage" href="http://www.fidelity.com/">
+                   <img width="112" alt="Fidelity.com Home" src="/ftgw/pages/images/common/fidelity_logo.png">
+                </a>
+                <div class="off-screen">This is a secure transaction.</div>
+            </header>
+<div class="error-page col-xs-12">
+    <div role="alert" class="errorMsg">
+        <div>
+            <div class="errorIcon glyphicon glyphicon-exclamation-sign"></div>
+            <strong>Error:</strong> Due to a technical error, the system is temporarily unavailable. We apologize for the inconvenience. Please try again later.
+        </div>
+    </div>
+    <div class="bulletIcon"></div>
+    <p>
+        <a href="http://www.fidelity.com/">Return to your home page</a>
+    </p>
+</div>
+
+<footer id="footer" class="col-xs-12">
+    <div class="col-xs-12 col-sm-4 footer-logo">
+    	<a title="Go to Fidelity homepage" href="http://www.fidelity.com/" alt="Fidelity.com Home">
+        	<img class="footerLogo" title="Fidelity Investments. Smart Move." alt="Fidelity Investments." src="/ftgw/pages/images/common/logo_gray_trans.gif" border="0" hspace="0" vspace="2" />
+    	</a>
+    </div>
+    <div class="col-xs-12 col-sm-8 footer-right-content">
+        &copy; 1998&#150;<script type="text/javascript">document.write(new Date().getFullYear())</script>&nbsp; FMR LLC. All rights reserved.
+        <ul>
+            <li><a href="http://personal.fidelity.com/misc/legal/index_legal.shtml" target=_top>Terms of Use</a></li>
+            <li><a href="http://personal.fidelity.com/accounts/services/findanswer/content/index_privacy.shtml" target=_top>Privacy</a></li>
+            <li><a href="http://personal.fidelity.com/accounts/services/findanswer/content/index_security.shtml" target=_top>Security</a></li>
+            <li><a href="http://personal.fidelity.com/accounts/services/index_sitemap.html" target=_top>Site Map</a></li>
+        </ul>
+        <a href="http://www.fidelity.com/terms-of-use">This is for persons in the U.S. only.</a>
+    </div>
+</footer>
+
+
+</div>
+<script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]);</script><script type="text/javascript" src="/_bm/bd-1-30"></script></body>
+</html>
+
+Success (GET): 200
+    
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+
+	<TITLE>Log In to Fidelity.com</TITLE>
+
+	<META name="OASIS" content="438144.3.0">
+	<META http-equiv="Expires" content="Mon 13 Jun 1988 00:00:00 GMT">
+	<META http-equiv="pragma" content="no-cache">
+	<META name="eReview" content="694945.1">
+	<!--[if lt IE 9]>
+    <script src="/ftgw/pages/js/common/html5shiv.js"></script>
+	<![endif]-->
+		<!-- Start Measurement Code:  Do not remove.  -->
+	<script language="JavaScript" type="text/javascript" src="https://nexus.ensighten.com/fidelity/prod/Bootstrap.js"></script>
+	<!-- End Measurement Code:  Do not remove.  -->
+	
+	<!--link href="/ftgw/pages/css/common/base.css" rel="stylesheet" type="text/css" media="screen, print"/-->
+	<link href="/ftgw/pages/css/retail/defaultWeb/retail.css" rel="stylesheet" type="text/css" media="screen, print"/>
+
+	<!--[if lt IE 8]>
+    <link href="/ftgw/pages/css/retail/defaultWeb/ie7.css" rel="stylesheet" type="text/css" media="screen, print"/>
+	<![endif]-->
+
+
+
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"626424",ustr:"",originlat:"0",clientrtt:"29",ghostip:"23.220.96.109",ipv6:false,pct:"10",clientip:"71.194.225.152",requestid:"274ff952",region:"29882",protocol:"",blver:14,akM:"x",akN:"ae",akTT:"O",akTX:"1",akTI:"274ff952",ai:"408018",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
+
+<body>
+
+    <header id="header" role="banner">
+        <h1>
+            <a href="http://www.fidelity.com/" alt="Fidelity.com Home">
+                <img alt="Fidelity.com" src="/ftgw/pages/images/retail/fidelity_com_logo.gif" />
+            </a>
+        </h1>
+        <h1 id="peekHeaderTitle"></h1>
+    </header>
+<div id="trial">
+	<article id="column-left">
+		<section id="page-header">
+			<h2>Already a Fidelity Customer?<div class="lockIcon"></div></h2>
+			<p>If you already have a Fidelity Brokerage Account, IRA or workplace savings plan (e.g., a 401k, 403b, or 457 plan), please login to save your application.</p>
+		</section>
+		
+
+
+<section id="loginBoxNoRemMe">
+    <form id="Login" name="Login" method="POST"	action="/ftgw/Fas/Fidelity/RtlCust/Login/Response"	autocomplete="off" novalidate="novalidate">
+        <input type="hidden" name="DEVICE_PRINT" value=""/>
+		
+        <ol>
+            <li class="text">
+            	<label for="username">Username</label>
+            	<input class="obfuscate" id="userId" name="SSN" type="text" tabindex="1" maxlength="15" required="required" data-error-empty="Please enter your username" data-error-invalid="This field is not properly formatted" />
+	            <span><div id="usernameBubble" class="bubble" tabindex="5">
+    <a href="#">
+        <div class="bubbleArea">
+            <span class="bubbleProperties">
+                <img class="bubbleArrow" alt="" src="/ftgw/pages/images/common/arrow_top_blk.gif" />
+                  For U.S. employees, your username (up to 15 characters) can be any customer identifier you've chosen or your Social Security number (SSN).<br/><br/>If you use your SSN to log in, please create a personalized username for added security. Use the Need Help links to the right to change your login information.<br/><br/>For outside the U.S. employees, your Participant Number is your Username and if you created a PIN previously, it is now considered your Password.
+            </span>
+        </div>
+    </a>
+</div></span>
+            </li>
+            <li class="password">
+            	<label for="password">Password</label>
+                <input id="password" type="password" name="PIN" required="required" maxlength="20" tabindex="1" data-error-empty="Please enter your password" data-error-invalid="This field is not properly formatted" />
+                <div id="passwordBubble" class="bubble" tabindex="8">
+    <a href="#">
+        <div class="bubbleArea">
+            <span class="bubbleProperties">
+                <img class="bubbleArrow" alt="" src="/ftgw/pages/images/common/arrow_top_blk.gif" />
+                    	Use 6 to 20 letters, numbers, and/or special characters
+            </span>
+        </div>
+    </a>
+</div>            </li>
+            <li>
+                <label class="needHelp">
+                <a href="http://personal.fidelity.com/accounts/services/content/pinchange2.shtml.cvsr" tabindex="105">Need help logging in?</a>
+                </label>
+            </li>
+            <li class="buttons">
+                <button type="submit" tabindex="3"><b>Log In</b></button>
+            </li>
+        </ol>
+    </form>
+</section>	</article>
+
+	<article id="column-right">
+		<section id="alreadyMember">
+		    <h2>Already have Guest Access?</h2>
+		    <p>Sign in to explore features and resources only available to customers.</p>
+		    <p>
+		        <span class="bulletIcon"></span>
+		        <a href="https://login.fidelity.com/ftgw/Fidelity/MemberSignIn/Login/Next/df.chf.ra/Intro" tabindex="106">Sign In</a>
+		    </p>
+
+            <h2>New to Fidelity?</h2>
+		    <p>Give us a try for 30 days. Sign up for free Guest Access to experience the resources, tools, and features only available to our customers.</p>
+            <p>
+                <span class="bulletIcon"></span>
+                <a onclick="paramCheck('https://guest.fidelity.com/GA/signup')" href="#" tabindex="107">Sign Up for Guest Access</a>
+            </p>
+		</section>
+	</article>
+
+    <p class="hr"></p>
+
+	<section id="security-link">
+    <div>
+        <p class="last"><a href="http://personal.fidelity.com/accounts/services/findanswer/content/securitynotice.shtml" tabindex="113">Online Security</a>&ndash; We will never ask for personal information through e-mail.</p>
+    </div>
+</section>
+    <section id="conditions">
+        <p class="conditions gray">Use of this site involves the electronic transmission of personal financial information. Using this product is consent to such transmission of this information; such consent is effective at all times when using this site. Fidelity supports 128-bit
+
+    <a href="http://personal.fidelity.com/accounts/services/findanswer/content/security.shtml.cvsr" tabindex="194">
+        &nbsp;browser encryption.&nbsp;
+    </a>
+
+    Usage of Fidelity's online trading services constitutes agreement of the 
+
+   <a href="https://scs.fidelity.com/webxpress/electronic_services_agreement.shtml" tabindex="196">
+        &nbsp;Electronic Services Customer Agreement
+    </a>
+
+    &nbsp;and&nbsp
+
+    <a href="https://scs.fidelity.com/webxpress/license_agreement.html" tabindex="198">
+        License Agreement.
+    </a>
+</p>        <p class="conditions gray"><span class="org">Fidelity Brokerage Services LLC</span>, Member&nbsp;NYSE,&nbsp;SIPC.<span class="adr"> <span class="street-address">900 Salem Street</span>, <span class="locality">Smithfield</span>, <abbr class="region" title="Rhode Island">RI</abbr> <span class="postal-code">02917</span></span></p>
+        <br><p class="gray font-small">694945.1</p>
+    </section id="conditions">
+
+</div><!-- END TRIAL WRAPPER -->
+
+<script type="text/javascript" src="/ftgw/pages/js/common/jquery.js"></script>
+<script type="text/javascript" src="/ftgw/pages/js/common/main.js"></script>
+<script language="javascript" src="/ftgw/pages/capability/common/defaultWeb/js/rsa/device_print.min.js"></script>
+<script>
+function getUrlParams(){
+    var url = window.location.href;
+    var AuthOrigURL;
+    var AuthRedURL;
+    var param3;
+
+    //url+='?param1=value1&param2=value2';
+    AuthOrigURL = getParameterByName("AuthOrigURL", url);
+    AuthRedURL = getParameterByName("AuthRedURL", url);
+
+    if(AuthOrigURL != null && AuthRedURL != null){
+
+        param3 = getParameterByName("param3", url); // collects the parameter
+        alert(param3);
+
+        if(param3 == null){
+            param3='&param3=value3';
+            location.hash=url+param3; //no page reload
+            //alert('new param added');
+        }
+    }
+}
+
+function getParameterByName( name, href ){
+    name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+    var regexS = "[\\?&]"+name+"=([^&#]*)";
+    var regex = new RegExp( regexS );
+    var results = regex.exec( href );
+
+    if( results == null ) 
+        return null; 
+    else 
+        return decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+
+//gets called on page load
+$(document).ready(function (){
+	if($('[name="DEVICE_PRINT"]').length != 0){
+	   $('[name="DEVICE_PRINT"]').val(add_deviceprint());
+	}
+	
+	//Frame buster for all default web
+    if(top.location != location){
+        // Netbenefits upgrade page is called within a frame, we do not want to bust it 
+    	if($("#embedNoteBox").length == 0){
+        	top.location.href = document.location.href;
+        }
+    }
+});
+</script>
+
+<script>
+getUrlParams();
+
+/** Begin Added paramCheck for trial page */
+function paramCheck(destinationUrl)
+{
+	window.location = GetURLParameter(destinationUrl);
+}
+ 
+function GetURLParameter(destinationUrl)
+{
+	var appendParam = destinationUrl;
+	var sPageURL = window.location.search.substring(1);
+	var sURLVariables = sPageURL.split('&');
+ 
+	if(sURLVariables[0]!=''){
+		for (var i = 0; i < sURLVariables.length; i++)
+		{
+			var sParameterName = sURLVariables[i].split('=');
+			if(i==0){
+				appendParam += '?' + sParameterName[0] + '=' + sParameterName[1];
+			}else{
+				appendParam += '&' + sParameterName[0] + '=' + sParameterName[1];
+			}
+		}
+	}
+	return appendParam;
+}
+/** End Added paramCheck for trial page */
+</script>
+
+<footer id="footer">
+	<figure>
+		<a href="http://www.fidelity.com/" tabindex="291">
+			<img class="footerLogo" title="Fidelity Investments. Smart Move." alt="Fidelity Investments." src="/ftgw/pages/images/retail/logo_gray_trans.gif" border="0" hspace="0" vspace="2" />
+		</a>
+	</figure>
+	<p>
+		<!-- change the js date to server side and populate with Velocity! -->
+		&copy; 1998&#150;<script type="text/javascript">document.write(new Date().getFullYear())</script>&nbsp; FMR LLC.
+	</p>
+	<p>All rights reserved.</p>
+	<p>
+		<a href="http://personal.fidelity.com/misc/legal/index_legal.shtml" target=_top tabindex="292">Terms of Use</a>
+		  |&nbsp;<a href="http://personal.fidelity.com/accounts/services/findanswer/content/index_privacy.shtml" target=_top tabindex="293">Privacy</a>
+		  |&nbsp;<a href="http://personal.fidelity.com/accounts/services/findanswer/content/index_security.shtml" target=_top tabindex="294">Security</a>
+		  |&nbsp;<a href="http://personal.fidelity.com/accounts/services/index_sitemap.html" target=_top tabindex="295">Site Map</a>
+	 </p>
+</footer>
+
+<script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]);</script><script type="text/javascript" src="/_bm/bd-1-30"></script></body>
+</html>
+

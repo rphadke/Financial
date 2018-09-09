@@ -1,0 +1,1230 @@
+import _frozen_importlib # frozen
+import _imp # builtin
+import sys # builtin
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'posix' # <class '_frozen_importlib.BuiltinImporter'>
+import _thread # previously loaded ('_thread')
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import _weakref # previously loaded ('_weakref')
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+# installing zipimport hook
+import 'zipimport' # <class '_frozen_importlib.BuiltinImporter'>
+# installed zipimport hook
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/__init__.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/codecs.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/codecs.cpython-36.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <_frozen_importlib_external.SourceFileLoader object at 0x101bda828>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/aliases.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/aliases.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/aliases.cpython-36.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x101d18358>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x101bda390>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/utf_8.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/utf_8.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/utf_8.cpython-36.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x101d24160>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/latin_1.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/latin_1.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/latin_1.cpython-36.pyc'
+import 'encodings.latin_1' # <_frozen_importlib_external.SourceFileLoader object at 0x101d24be0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/io.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/io.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/io.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/abc.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/abc.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/abc.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_weakrefset.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/_weakrefset.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_weakrefset.cpython-36.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x101d2bb38>
+import 'abc' # <_frozen_importlib_external.SourceFileLoader object at 0x101d2b1d0>
+import 'io' # <_frozen_importlib_external.SourceFileLoader object at 0x101d24dd8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_bootlocale.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/_bootlocale.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_bootlocale.cpython-36.pyc'
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+import '_bootlocale' # <_frozen_importlib_external.SourceFileLoader object at 0x101d3a2e8>
+Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 03:03:55) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/site.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/site.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/os.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/os.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/os.cpython-36.pyc'
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/stat.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/stat.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/stat.cpython-36.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourceFileLoader object at 0x101d745c0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/posixpath.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/posixpath.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/posixpath.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/genericpath.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/genericpath.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/genericpath.cpython-36.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourceFileLoader object at 0x101d76f98>
+import 'posixpath' # <_frozen_importlib_external.SourceFileLoader object at 0x101d74c88>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_collections_abc.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/_collections_abc.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_collections_abc.cpython-36.pyc'
+import '_collections_abc' # <_frozen_importlib_external.SourceFileLoader object at 0x101d7f5f8>
+import 'os' # <_frozen_importlib_external.SourceFileLoader object at 0x101d644e0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_sitebuiltins.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/_sitebuiltins.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_sitebuiltins.cpython-36.pyc'
+import '_sitebuiltins' # <_frozen_importlib_external.SourceFileLoader object at 0x101d648d0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/sysconfig.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sysconfig.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/sysconfig.cpython-36.pyc'
+import 'sysconfig' # <_frozen_importlib_external.SourceFileLoader object at 0x101d64dd8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_sysconfigdata_m_darwin_darwin.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/_sysconfigdata_m_darwin_darwin.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_sysconfigdata_m_darwin_darwin.cpython-36.pyc'
+import '_sysconfigdata_m_darwin_darwin' # <_frozen_importlib_external.SourceFileLoader object at 0x101dc5fd0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_osx_support.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/_osx_support.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_osx_support.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/re.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/re.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/enum.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/enum.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/enum.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/types.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/types.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/types.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/functools.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/functools.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/functools.cpython-36.pyc'
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/collections/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/collections/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/collections/__pycache__/__init__.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/operator.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/operator.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/operator.cpython-36.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x101e4cc18>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/keyword.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/keyword.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/keyword.cpython-36.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x101e59e48>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/heapq.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/heapq.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/heapq.cpython-36.pyc'
+# extension module '_heapq' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_heapq.cpython-36m-darwin.so'
+# extension module '_heapq' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_heapq.cpython-36m-darwin.so'
+import '_heapq' # <_frozen_importlib_external.ExtensionFileLoader object at 0x101e54ba8>
+import 'heapq' # <_frozen_importlib_external.SourceFileLoader object at 0x101e546a0>
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/reprlib.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/reprlib.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/reprlib.cpython-36.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x101e54c88>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x101e2d390>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/weakref.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/weakref.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/weakref.cpython-36.pyc'
+import 'weakref' # <_frozen_importlib_external.SourceFileLoader object at 0x101e2d780>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x101e19c18>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/collections/__pycache__/abc.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/collections/abc.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/collections/__pycache__/abc.cpython-36.pyc'
+import 'collections.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x101e1f9e8>
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x101e12ef0>
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x101dddeb8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/sre_compile.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_compile.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/sre_compile.cpython-36.pyc'
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/sre_parse.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_parse.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/sre_parse.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/sre_constants.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/sre_constants.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/sre_constants.cpython-36.pyc'
+import 'sre_constants' # <_frozen_importlib_external.SourceFileLoader object at 0x101e8df60>
+import 'sre_parse' # <_frozen_importlib_external.SourceFileLoader object at 0x101e87b38>
+import 'sre_compile' # <_frozen_importlib_external.SourceFileLoader object at 0x101e19e80>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/copyreg.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/copyreg.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/copyreg.cpython-36.pyc'
+import 'copyreg' # <_frozen_importlib_external.SourceFileLoader object at 0x101e94f28>
+import 're' # <_frozen_importlib_external.SourceFileLoader object at 0x101dd7da0>
+import '_osx_support' # <_frozen_importlib_external.SourceFileLoader object at 0x101dd7080>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__pycache__/__init__.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/warnings.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/warnings.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/warnings.cpython-36.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x101ea47f0>
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x101ea4400>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__pycache__/util.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/util.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__pycache__/util.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__pycache__/abc.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/abc.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__pycache__/abc.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__pycache__/machinery.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/machinery.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/importlib/__pycache__/machinery.cpython-36.pyc'
+import 'importlib.machinery' # <_frozen_importlib_external.SourceFileLoader object at 0x101eb0ef0>
+import 'importlib.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x101eb0828>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/contextlib.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/contextlib.cpython-36.pyc'
+import 'contextlib' # <_frozen_importlib_external.SourceFileLoader object at 0x101ebeba8>
+import 'importlib.util' # <_frozen_importlib_external.SourceFileLoader object at 0x101ea4e48>
+# possible namespace for /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mpl_toolkits
+# possible namespace for /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mpl_toolkits
+# destroy mpl_toolkits
+# possible namespace for /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/virtualenvwrapper
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/cp437.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/cp437.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/cp437.cpython-36.pyc'
+import 'encodings.cp437' # <_frozen_importlib_external.SourceFileLoader object at 0x101edf438>
+# zipimport: found 16 names in '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/panda-0.3.1-py3.6.egg'
+# zipimport: found 40 names in '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/beautifulsoup4-4.6.0-py3.6.egg'
+import 'site' # <_frozen_importlib_external.SourceFileLoader object at 0x101d3f240>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/__init__.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/__future__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__future__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/__future__.cpython-36.pyc'
+import '__future__' # <_frozen_importlib_external.SourceFileLoader object at 0x101edfd68>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/connectionpool.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/connectionpool.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/connectionpool.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/logging/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/logging/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/logging/__pycache__/__init__.cpython-36.pyc'
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/traceback.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/traceback.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/traceback.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/linecache.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/linecache.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/linecache.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/tokenize.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tokenize.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/tokenize.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/token.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/token.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/token.cpython-36.pyc'
+import 'token' # <_frozen_importlib_external.SourceFileLoader object at 0x101f2ea90>
+import 'tokenize' # <_frozen_importlib_external.SourceFileLoader object at 0x101f27160>
+import 'linecache' # <_frozen_importlib_external.SourceFileLoader object at 0x101f1ee48>
+import 'traceback' # <_frozen_importlib_external.SourceFileLoader object at 0x101f10d68>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/string.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/string.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/string.cpython-36.pyc'
+import '_string' # <class '_frozen_importlib.BuiltinImporter'>
+import 'string' # <_frozen_importlib_external.SourceFileLoader object at 0x101f27048>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/threading.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/threading.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/threading.cpython-36.pyc'
+import 'threading' # <_frozen_importlib_external.SourceFileLoader object at 0x101f3e1d0>
+import 'atexit' # <class '_frozen_importlib.BuiltinImporter'>
+import 'logging' # <_frozen_importlib_external.SourceFileLoader object at 0x101ef4588>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/socket.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socket.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/socket.cpython-36.pyc'
+# extension module '_socket' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_socket.cpython-36m-darwin.so'
+# extension module '_socket' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_socket.cpython-36m-darwin.so'
+import '_socket' # <_frozen_importlib_external.ExtensionFileLoader object at 0x101f72da0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/selectors.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/selectors.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/selectors.cpython-36.pyc'
+# extension module 'math' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/math.cpython-36m-darwin.so'
+# extension module 'math' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/math.cpython-36m-darwin.so'
+import 'math' # <_frozen_importlib_external.ExtensionFileLoader object at 0x101f82320>
+# extension module 'select' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/select.cpython-36m-darwin.so'
+# extension module 'select' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/select.cpython-36m-darwin.so'
+import 'select' # <_frozen_importlib_external.ExtensionFileLoader object at 0x101f82cc0>
+import 'selectors' # <_frozen_importlib_external.SourceFileLoader object at 0x101f77588>
+import 'socket' # <_frozen_importlib_external.SourceFileLoader object at 0x101f62470>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/exceptions.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/exceptions.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/exceptions.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/packages/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/packages/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/packages/__pycache__/__init__.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/packages/ssl_match_hostname/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/packages/ssl_match_hostname/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/packages/ssl_match_hostname/__pycache__/__init__.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/ssl.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ssl.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/ssl.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/ipaddress.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ipaddress.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/ipaddress.cpython-36.pyc'
+import 'ipaddress' # <_frozen_importlib_external.SourceFileLoader object at 0x10352da20>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/textwrap.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/textwrap.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/textwrap.cpython-36.pyc'
+import 'textwrap' # <_frozen_importlib_external.SourceFileLoader object at 0x103546240>
+# extension module '_ssl' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_ssl.cpython-36m-darwin.so'
+# extension module '_ssl' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_ssl.cpython-36m-darwin.so'
+import '_ssl' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1035504e0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/base64.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/base64.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/base64.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/struct.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/struct.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/struct.cpython-36.pyc'
+# extension module '_struct' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_struct.cpython-36m-darwin.so'
+# extension module '_struct' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_struct.cpython-36m-darwin.so'
+import '_struct' # <_frozen_importlib_external.ExtensionFileLoader object at 0x103618978>
+import 'struct' # <_frozen_importlib_external.SourceFileLoader object at 0x103618748>
+# extension module 'binascii' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/binascii.cpython-36m-darwin.so'
+# extension module 'binascii' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/binascii.cpython-36m-darwin.so'
+import 'binascii' # <_frozen_importlib_external.ExtensionFileLoader object at 0x103618a90>
+import 'base64' # <_frozen_importlib_external.SourceFileLoader object at 0x103567550>
+import 'ssl' # <_frozen_importlib_external.SourceFileLoader object at 0x103515828>
+import 'urllib3.packages.ssl_match_hostname' # <_frozen_importlib_external.SourceFileLoader object at 0x103515668>
+import 'urllib3.packages' # <_frozen_importlib_external.SourceFileLoader object at 0x1035154a8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/packages/__pycache__/six.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/packages/six.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/packages/__pycache__/six.cpython-36.pyc'
+import 'urllib3.packages.six' # <_frozen_importlib_external.SourceFileLoader object at 0x103515438>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/__pycache__/__init__.cpython-36.pyc'
+import 'http' # <_frozen_importlib_external.SourceFileLoader object at 0x103638a90>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/__pycache__/client.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/__pycache__/client.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/__init__.cpython-36.pyc'
+import 'email' # <_frozen_importlib_external.SourceFileLoader object at 0x10364eb00>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/parser.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/parser.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/parser.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/feedparser.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/feedparser.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/feedparser.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/errors.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/errors.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/errors.cpython-36.pyc'
+import 'email.errors' # <_frozen_importlib_external.SourceFileLoader object at 0x103670208>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/_policybase.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/_policybase.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/_policybase.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/header.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/header.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/header.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/quoprimime.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/quoprimime.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/quoprimime.cpython-36.pyc'
+import 'email.quoprimime' # <_frozen_importlib_external.SourceFileLoader object at 0x10368b6d8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/base64mime.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/base64mime.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/base64mime.cpython-36.pyc'
+import 'email.base64mime' # <_frozen_importlib_external.SourceFileLoader object at 0x1036937b8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/charset.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/charset.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/charset.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/encoders.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/encoders.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/encoders.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/quopri.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/quopri.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/quopri.cpython-36.pyc'
+import 'quopri' # <_frozen_importlib_external.SourceFileLoader object at 0x103698a20>
+import 'email.encoders' # <_frozen_importlib_external.SourceFileLoader object at 0x103698630>
+import 'email.charset' # <_frozen_importlib_external.SourceFileLoader object at 0x103693a20>
+import 'email.header' # <_frozen_importlib_external.SourceFileLoader object at 0x103683588>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/utils.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/utils.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/utils.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/random.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/random.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/hashlib.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/hashlib.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/hashlib.cpython-36.pyc'
+# extension module '_hashlib' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_hashlib.cpython-36m-darwin.so'
+# extension module '_hashlib' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_hashlib.cpython-36m-darwin.so'
+import '_hashlib' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1036abe10>
+# extension module '_blake2' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_blake2.cpython-36m-darwin.so'
+# extension module '_blake2' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_blake2.cpython-36m-darwin.so'
+import '_blake2' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1036b34e0>
+# extension module '_sha3' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_sha3.cpython-36m-darwin.so'
+# extension module '_sha3' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_sha3.cpython-36m-darwin.so'
+import '_sha3' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1036b35f8>
+import 'hashlib' # <_frozen_importlib_external.SourceFileLoader object at 0x1036ab400>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/bisect.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/bisect.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/bisect.cpython-36.pyc'
+# extension module '_bisect' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_bisect.cpython-36m-darwin.so'
+# extension module '_bisect' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_bisect.cpython-36m-darwin.so'
+import '_bisect' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1036b33c8>
+import 'bisect' # <_frozen_importlib_external.SourceFileLoader object at 0x1036ab908>
+# extension module '_random' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_random.cpython-36m-darwin.so'
+# extension module '_random' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_random.cpython-36m-darwin.so'
+import '_random' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1036ab8d0>
+import 'random' # <_frozen_importlib_external.SourceFileLoader object at 0x1036a4ba8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/datetime.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/datetime.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/datetime.cpython-36.pyc'
+# extension module '_datetime' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_datetime.cpython-36m-darwin.so'
+# extension module '_datetime' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_datetime.cpython-36m-darwin.so'
+import '_datetime' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1036d5c88>
+import 'datetime' # <_frozen_importlib_external.SourceFileLoader object at 0x1036ab390>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/__pycache__/__init__.cpython-36.pyc'
+import 'urllib' # <_frozen_importlib_external.SourceFileLoader object at 0x1036b37f0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/__pycache__/parse.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/__pycache__/parse.cpython-36.pyc'
+import 'urllib.parse' # <_frozen_importlib_external.SourceFileLoader object at 0x1036b3940>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/_parseaddr.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/_parseaddr.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/_parseaddr.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/calendar.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/calendar.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/calendar.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/locale.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/locale.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/locale.cpython-36.pyc'
+import 'locale' # <_frozen_importlib_external.SourceFileLoader object at 0x10374ef28>
+import 'calendar' # <_frozen_importlib_external.SourceFileLoader object at 0x10373acc0>
+import 'email._parseaddr' # <_frozen_importlib_external.SourceFileLoader object at 0x1036cc9b0>
+import 'email.utils' # <_frozen_importlib_external.SourceFileLoader object at 0x103693978>
+import 'email._policybase' # <_frozen_importlib_external.SourceFileLoader object at 0x1036702b0>
+import 'email.feedparser' # <_frozen_importlib_external.SourceFileLoader object at 0x10366c438>
+import 'email.parser' # <_frozen_importlib_external.SourceFileLoader object at 0x10364eda0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/message.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/message.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/message.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/uu.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/uu.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/uu.cpython-36.pyc'
+import 'uu' # <_frozen_importlib_external.SourceFileLoader object at 0x10377a0f0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/_encoded_words.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/_encoded_words.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/_encoded_words.cpython-36.pyc'
+import 'email._encoded_words' # <_frozen_importlib_external.SourceFileLoader object at 0x10377a2e8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/iterators.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/iterators.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/email/__pycache__/iterators.cpython-36.pyc'
+import 'email.iterators' # <_frozen_importlib_external.SourceFileLoader object at 0x10377a940>
+import 'email.message' # <_frozen_importlib_external.SourceFileLoader object at 0x10366c2e8>
+import 'http.client' # <_frozen_importlib_external.SourceFileLoader object at 0x103638f98>
+import 'urllib3.exceptions' # <_frozen_importlib_external.SourceFileLoader object at 0x101f62630>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/queue.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/queue.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/queue.cpython-36.pyc'
+import 'queue' # <_frozen_importlib_external.SourceFileLoader object at 0x101f724e0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/connection.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/connection.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/connection.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/__init__.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/connection.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/connection.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/connection.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/wait.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/wait.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/wait.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/selectors.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/selectors.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/selectors.cpython-36.pyc'
+import 'urllib3.util.selectors' # <_frozen_importlib_external.SourceFileLoader object at 0x1037967b8>
+import 'urllib3.util.wait' # <_frozen_importlib_external.SourceFileLoader object at 0x103796470>
+import 'urllib3.util.connection' # <_frozen_importlib_external.SourceFileLoader object at 0x103796080>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/request.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/request.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/request.cpython-36.pyc'
+import 'urllib3.util.request' # <_frozen_importlib_external.SourceFileLoader object at 0x103796400>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/response.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/response.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/response.cpython-36.pyc'
+import 'urllib3.util.response' # <_frozen_importlib_external.SourceFileLoader object at 0x1037969b0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/ssl_.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/ssl_.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/ssl_.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/hmac.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/hmac.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/hmac.cpython-36.pyc'
+import 'hmac' # <_frozen_importlib_external.SourceFileLoader object at 0x1037a1908>
+import 'urllib3.util.ssl_' # <_frozen_importlib_external.SourceFileLoader object at 0x1037a1588>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/timeout.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/timeout.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/timeout.cpython-36.pyc'
+import 'urllib3.util.timeout' # <_frozen_importlib_external.SourceFileLoader object at 0x1037a1630>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/retry.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/retry.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/retry.cpython-36.pyc'
+import 'urllib3.util.retry' # <_frozen_importlib_external.SourceFileLoader object at 0x1037a1cf8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/url.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/url.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/util/__pycache__/url.cpython-36.pyc'
+import 'urllib3.util.url' # <_frozen_importlib_external.SourceFileLoader object at 0x1037b6438>
+import 'urllib3.util' # <_frozen_importlib_external.SourceFileLoader object at 0x103790ba8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/_collections.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/_collections.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/_collections.cpython-36.pyc'
+import 'urllib3._collections' # <_frozen_importlib_external.SourceFileLoader object at 0x103790cf8>
+import 'urllib3.connection' # <_frozen_importlib_external.SourceFileLoader object at 0x1036c4278>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/request.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/request.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/request.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/filepost.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/filepost.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/filepost.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/uuid.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/uuid.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/uuid.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/__pycache__/__init__.cpython-36.pyc'
+# extension module '_ctypes' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_ctypes.cpython-36m-darwin.so'
+# extension module '_ctypes' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_ctypes.cpython-36m-darwin.so'
+import '_ctypes' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1037d3358>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/__pycache__/_endian.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/_endian.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/__pycache__/_endian.cpython-36.pyc'
+import 'ctypes._endian' # <_frozen_importlib_external.SourceFileLoader object at 0x1037ed588>
+import 'ctypes' # <_frozen_importlib_external.SourceFileLoader object at 0x1037c77b8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/__pycache__/util.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/util.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/__pycache__/util.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/shutil.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/shutil.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/shutil.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/fnmatch.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/fnmatch.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/fnmatch.cpython-36.pyc'
+import 'fnmatch' # <_frozen_importlib_external.SourceFileLoader object at 0x104273668>
+# extension module 'zlib' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/zlib.cpython-36m-darwin.so'
+# extension module 'zlib' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/zlib.cpython-36m-darwin.so'
+import 'zlib' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104273978>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/bz2.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/bz2.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/bz2.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_compression.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/_compression.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_compression.cpython-36.pyc'
+import '_compression' # <_frozen_importlib_external.SourceFileLoader object at 0x10427b5f8>
+# extension module '_bz2' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_bz2.cpython-36m-darwin.so'
+# extension module '_bz2' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_bz2.cpython-36m-darwin.so'
+import '_bz2' # <_frozen_importlib_external.ExtensionFileLoader object at 0x10427bf60>
+import 'bz2' # <_frozen_importlib_external.SourceFileLoader object at 0x104273cc0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/lzma.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lzma.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/lzma.cpython-36.pyc'
+# extension module '_lzma' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_lzma.cpython-36m-darwin.so'
+# extension module '_lzma' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_lzma.cpython-36m-darwin.so'
+import '_lzma' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104287ba8>
+import 'lzma' # <_frozen_importlib_external.SourceFileLoader object at 0x104287160>
+import 'pwd' # <class '_frozen_importlib.BuiltinImporter'>
+# extension module 'grp' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/grp.cpython-36m-darwin.so'
+# extension module 'grp' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/grp.cpython-36m-darwin.so'
+import 'grp' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104287f28>
+import 'shutil' # <_frozen_importlib_external.SourceFileLoader object at 0x1037edc18>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/subprocess.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/subprocess.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/subprocess.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/signal.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/signal.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/signal.cpython-36.pyc'
+import 'signal' # <_frozen_importlib_external.SourceFileLoader object at 0x10429c908>
+# extension module '_posixsubprocess' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_posixsubprocess.cpython-36m-darwin.so'
+# extension module '_posixsubprocess' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_posixsubprocess.cpython-36m-darwin.so'
+import '_posixsubprocess' # <_frozen_importlib_external.ExtensionFileLoader object at 0x10429c9e8>
+import 'subprocess' # <_frozen_importlib_external.SourceFileLoader object at 0x1037edcf8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/__pycache__/__init__.cpython-36.pyc'
+import 'ctypes.macholib' # <_frozen_importlib_external.SourceFileLoader object at 0x10429c208>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/__pycache__/dyld.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/dyld.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/__pycache__/dyld.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/__pycache__/framework.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/framework.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/__pycache__/framework.cpython-36.pyc'
+import 'ctypes.macholib.framework' # <_frozen_importlib_external.SourceFileLoader object at 0x104506390>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/__pycache__/dylib.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/dylib.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ctypes/macholib/__pycache__/dylib.cpython-36.pyc'
+import 'ctypes.macholib.dylib' # <_frozen_importlib_external.SourceFileLoader object at 0x1045066d8>
+import 'ctypes.macholib.dyld' # <_frozen_importlib_external.SourceFileLoader object at 0x10429c2e8>
+import 'ctypes.util' # <_frozen_importlib_external.SourceFileLoader object at 0x1037c7e48>
+import 'uuid' # <_frozen_importlib_external.SourceFileLoader object at 0x1037c2438>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/fields.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/fields.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/fields.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/mimetypes.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/mimetypes.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/mimetypes.cpython-36.pyc'
+import 'mimetypes' # <_frozen_importlib_external.SourceFileLoader object at 0x1037ed710>
+import 'urllib3.fields' # <_frozen_importlib_external.SourceFileLoader object at 0x1037ce6d8>
+import 'urllib3.filepost' # <_frozen_importlib_external.SourceFileLoader object at 0x1037d8f28>
+import 'urllib3.request' # <_frozen_importlib_external.SourceFileLoader object at 0x103790908>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/response.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/response.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/response.cpython-36.pyc'
+import 'urllib3.response' # <_frozen_importlib_external.SourceFileLoader object at 0x1037d8e10>
+import 'urllib3.connectionpool' # <_frozen_importlib_external.SourceFileLoader object at 0x101eec470>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/poolmanager.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/poolmanager.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3-1.22-py3.6.egg/urllib3/__pycache__/poolmanager.cpython-36.pyc'
+import 'urllib3.poolmanager' # <_frozen_importlib_external.SourceFileLoader object at 0x1037907b8>
+import 'urllib3' # <_frozen_importlib_external.SourceFileLoader object at 0x101edf828>
+# zipimport: zlib available
+# zipimport: zlib available
+# zipimport: zlib available
+# zipimport: zlib available
+# zipimport: zlib available
+# zipimport: zlib available
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/shlex.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/shlex.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/shlex.cpython-36.pyc'
+import 'shlex' # <_frozen_importlib_external.SourceFileLoader object at 0x105098ba8>
+# zipimport: zlib available
+# zipimport: zlib available
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/html/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/html/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/html/__pycache__/__init__.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/html/__pycache__/entities.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/html/entities.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/html/__pycache__/entities.cpython-36.pyc'
+import 'html.entities' # <_frozen_importlib_external.SourceFileLoader object at 0x104567fd0>
+import 'html' # <_frozen_importlib_external.SourceFileLoader object at 0x105083198>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/__init__.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/compat.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/compat.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/compat.cpython-36.pyc'
+import 'chardet.compat' # <_frozen_importlib_external.SourceFileLoader object at 0x104563710>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/universaldetector.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/universaldetector.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/universaldetector.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/charsetgroupprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/charsetgroupprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/charsetgroupprober.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/enums.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/enums.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/enums.cpython-36.pyc'
+import 'chardet.enums' # <_frozen_importlib_external.SourceFileLoader object at 0x104575240>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/charsetprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/charsetprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/charsetprober.cpython-36.pyc'
+import 'chardet.charsetprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104575668>
+import 'chardet.charsetgroupprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104563cc0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/escprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/escprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/escprober.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/codingstatemachine.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/codingstatemachine.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/codingstatemachine.cpython-36.pyc'
+import 'chardet.codingstatemachine' # <_frozen_importlib_external.SourceFileLoader object at 0x104575fd0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/escsm.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/escsm.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/escsm.cpython-36.pyc'
+import 'chardet.escsm' # <_frozen_importlib_external.SourceFileLoader object at 0x10457a400>
+import 'chardet.escprober' # <_frozen_importlib_external.SourceFileLoader object at 0x1045759e8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/latin1prober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/latin1prober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/latin1prober.cpython-36.pyc'
+import 'chardet.latin1prober' # <_frozen_importlib_external.SourceFileLoader object at 0x10457a4e0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/mbcsgroupprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/mbcsgroupprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/mbcsgroupprober.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/utf8prober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/utf8prober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/utf8prober.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/mbcssm.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/mbcssm.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/mbcssm.cpython-36.pyc'
+import 'chardet.mbcssm' # <_frozen_importlib_external.SourceFileLoader object at 0x104582320>
+import 'chardet.utf8prober' # <_frozen_importlib_external.SourceFileLoader object at 0x10457add8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/sjisprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/sjisprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/sjisprober.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/mbcharsetprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/mbcharsetprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/mbcharsetprober.cpython-36.pyc'
+import 'chardet.mbcharsetprober' # <_frozen_importlib_external.SourceFileLoader object at 0x1045829b0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/chardistribution.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/chardistribution.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/chardistribution.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/euctwfreq.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/euctwfreq.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/euctwfreq.cpython-36.pyc'
+import 'chardet.euctwfreq' # <_frozen_importlib_external.SourceFileLoader object at 0x10458d828>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/euckrfreq.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/euckrfreq.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/euckrfreq.cpython-36.pyc'
+import 'chardet.euckrfreq' # <_frozen_importlib_external.SourceFileLoader object at 0x10458d908>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/gb2312freq.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/gb2312freq.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/gb2312freq.cpython-36.pyc'
+import 'chardet.gb2312freq' # <_frozen_importlib_external.SourceFileLoader object at 0x10458d9b0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/big5freq.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/big5freq.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/big5freq.cpython-36.pyc'
+import 'chardet.big5freq' # <_frozen_importlib_external.SourceFileLoader object at 0x10458da58>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/jisfreq.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/jisfreq.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/jisfreq.cpython-36.pyc'
+import 'chardet.jisfreq' # <_frozen_importlib_external.SourceFileLoader object at 0x10458db38>
+import 'chardet.chardistribution' # <_frozen_importlib_external.SourceFileLoader object at 0x104582e48>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/jpcntx.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/jpcntx.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/jpcntx.cpython-36.pyc'
+import 'chardet.jpcntx' # <_frozen_importlib_external.SourceFileLoader object at 0x10458dcc0>
+import 'chardet.sjisprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104582550>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/eucjpprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/eucjpprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/eucjpprober.cpython-36.pyc'
+import 'chardet.eucjpprober' # <_frozen_importlib_external.SourceFileLoader object at 0x10458de80>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/gb2312prober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/gb2312prober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/gb2312prober.cpython-36.pyc'
+import 'chardet.gb2312prober' # <_frozen_importlib_external.SourceFileLoader object at 0x104600320>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/euckrprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/euckrprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/euckrprober.cpython-36.pyc'
+import 'chardet.euckrprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104600518>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/cp949prober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/cp949prober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/cp949prober.cpython-36.pyc'
+import 'chardet.cp949prober' # <_frozen_importlib_external.SourceFileLoader object at 0x104600780>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/big5prober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/big5prober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/big5prober.cpython-36.pyc'
+import 'chardet.big5prober' # <_frozen_importlib_external.SourceFileLoader object at 0x1046009b0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/euctwprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/euctwprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/euctwprober.cpython-36.pyc'
+import 'chardet.euctwprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104600be0>
+import 'chardet.mbcsgroupprober' # <_frozen_importlib_external.SourceFileLoader object at 0x10457a978>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/sbcsgroupprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/sbcsgroupprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/sbcsgroupprober.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/sbcharsetprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/sbcharsetprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/sbcharsetprober.cpython-36.pyc'
+import 'chardet.sbcharsetprober' # <_frozen_importlib_external.SourceFileLoader object at 0x104600f28>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langcyrillicmodel.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/langcyrillicmodel.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langcyrillicmodel.cpython-36.pyc'
+import 'chardet.langcyrillicmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x1046081d0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langgreekmodel.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/langgreekmodel.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langgreekmodel.cpython-36.pyc'
+import 'chardet.langgreekmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x104608358>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langbulgarianmodel.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/langbulgarianmodel.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langbulgarianmodel.cpython-36.pyc'
+import 'chardet.langbulgarianmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x104608438>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langthaimodel.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/langthaimodel.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langthaimodel.cpython-36.pyc'
+import 'chardet.langthaimodel' # <_frozen_importlib_external.SourceFileLoader object at 0x1046084e0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langhebrewmodel.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/langhebrewmodel.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langhebrewmodel.cpython-36.pyc'
+import 'chardet.langhebrewmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x1046085f8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/hebrewprober.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/hebrewprober.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/hebrewprober.cpython-36.pyc'
+import 'chardet.hebrewprober' # <_frozen_importlib_external.SourceFileLoader object at 0x1046086d8>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langturkishmodel.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/langturkishmodel.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/langturkishmodel.cpython-36.pyc'
+import 'chardet.langturkishmodel' # <_frozen_importlib_external.SourceFileLoader object at 0x104608b38>
+import 'chardet.sbcsgroupprober' # <_frozen_importlib_external.SourceFileLoader object at 0x10457acc0>
+import 'chardet.universaldetector' # <_frozen_importlib_external.SourceFileLoader object at 0x1045637f0>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/version.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/version.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/chardet-3.0.4-py3.6.egg/chardet/__pycache__/version.cpython-36.pyc'
+import 'chardet.version' # <_frozen_importlib_external.SourceFileLoader object at 0x104563ac8>
+import 'chardet' # <_frozen_importlib_external.SourceFileLoader object at 0x104567e48>
+import bs4.dammit # loaded from Zip /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/beautifulsoup4-4.6.0-py3.6.egg/bs4/dammit.py
+import bs4.element # loaded from Zip /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/beautifulsoup4-4.6.0-py3.6.egg/bs4/element.py
+# zipimport: zlib available
+# extension module 'unicodedata' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/unicodedata.cpython-36m-darwin.so'
+# extension module 'unicodedata' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/unicodedata.cpython-36m-darwin.so'
+import 'unicodedata' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104608e48>
+# zipimport: zlib available
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/html/__pycache__/parser.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/html/parser.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/html/__pycache__/parser.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_markupbase.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/_markupbase.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/_markupbase.cpython-36.pyc'
+import '_markupbase' # <_frozen_importlib_external.SourceFileLoader object at 0x10461c3c8>
+import 'html.parser' # <_frozen_importlib_external.SourceFileLoader object at 0x10467f6a0>
+import bs4.builder._htmlparser # loaded from Zip /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/beautifulsoup4-4.6.0-py3.6.egg/bs4/builder/_htmlparser.py
+# zipimport: zlib available
+# zipimport: zlib available
+# destroy bs4.builder._html5lib
+# zipimport: zlib available
+# zipimport: zlib available
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/lxml/__pycache__/__init__.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/lxml/__init__.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/lxml/__pycache__/__init__.cpython-36.pyc'
+import 'lxml' # <_frozen_importlib_external.SourceFileLoader object at 0x104632438>
+# extension module 'lxml._elementpath' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/lxml/_elementpath.cpython-36m-darwin.so'
+# extension module 'lxml._elementpath' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/lxml/_elementpath.cpython-36m-darwin.so'
+import 'lxml._elementpath' # <_frozen_importlib_external.ExtensionFileLoader object at 0x10467a128>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/inspect.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/inspect.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/inspect.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/ast.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ast.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/ast.cpython-36.pyc'
+import '_ast' # <class '_frozen_importlib.BuiltinImporter'>
+import 'ast' # <_frozen_importlib_external.SourceFileLoader object at 0x1046fe780>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/dis.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/dis.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/dis.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/opcode.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/opcode.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/opcode.cpython-36.pyc'
+# extension module '_opcode' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_opcode.cpython-36m-darwin.so'
+# extension module '_opcode' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload/_opcode.cpython-36m-darwin.so'
+import '_opcode' # <_frozen_importlib_external.ExtensionFileLoader object at 0x1046ade48>
+import 'opcode' # <_frozen_importlib_external.SourceFileLoader object at 0x1046ad710>
+import 'dis' # <_frozen_importlib_external.SourceFileLoader object at 0x1046a3630>
+import 'inspect' # <_frozen_importlib_external.SourceFileLoader object at 0x10467af28>
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/gzip.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/gzip.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/gzip.cpython-36.pyc'
+import 'gzip' # <_frozen_importlib_external.SourceFileLoader object at 0x105002048>
+# extension module 'lxml.etree' loaded from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/lxml/etree.cpython-36m-darwin.so'
+# extension module 'lxml.etree' executed from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/lxml/etree.cpython-36m-darwin.so'
+import 'lxml.etree' # <_frozen_importlib_external.ExtensionFileLoader object at 0x104632a20>
+import bs4.builder._lxml # loaded from Zip /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/beautifulsoup4-4.6.0-py3.6.egg/bs4/builder/_lxml.py
+import bs4.builder # loaded from Zip /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/beautifulsoup4-4.6.0-py3.6.egg/bs4/builder/__init__.py
+import bs4 # loaded from Zip /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/beautifulsoup4-4.6.0-py3.6.egg/bs4/__init__.py
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/idna.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/idna.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/__pycache__/idna.cpython-36.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/stringprep.cpython-36.pyc matches /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/stringprep.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/__pycache__/stringprep.cpython-36.pyc'
+import 'stringprep' # <_frozen_importlib_external.SourceFileLoader object at 0x105005780>
+import 'encodings.idna' # <_frozen_importlib_external.SourceFileLoader object at 0x105005438>
+# zipimport: zlib available
+/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/beautifulsoup4-4.6.0-py3.6.egg/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 9 of the file googlex.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup(YOUR_MARKUP})
+
+to this:
+
+ BeautifulSoup(YOUR_MARKUP, "lxml")
+
+  markup_type=markup_type))
+Traceback (most recent call last):
+  File "googlex.py", line 10, in <module>
+    soup=BeautifulSoup(response.data,"html_parser")
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/beautifulsoup4-4.6.0-py3.6.egg/bs4/__init__.py", line 165, in __init__
+bs4.FeatureNotFound: Couldn't find a tree builder with the features you requested: html_parser. Do you need to install a parser library?
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# clear sys.path_hooks
+# clear sys.path_importer_cache
+# clear sys.meta_path
+# clear sys.__interactivehook__
+# clear sys.flags
+# clear sys.float_info
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing builtins
+# cleanup[2] removing sys
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _warnings
+# cleanup[2] removing _thread
+# cleanup[2] removing _weakref
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing posix
+# cleanup[2] removing zipimport
+# cleanup[2] removing encodings
+# cleanup[2] removing codecs
+# cleanup[2] removing _codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing _signal
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing encodings.latin_1
+# cleanup[2] removing io
+# cleanup[2] removing abc
+# cleanup[2] removing _weakrefset
+# destroy _weakrefset
+# cleanup[2] removing _bootlocale
+# destroy _bootlocale
+# cleanup[2] removing _locale
+# cleanup[2] removing site
+# destroy site
+# cleanup[2] removing os
+# cleanup[2] removing errno
+# cleanup[2] removing stat
+# cleanup[2] removing _stat
+# cleanup[2] removing posixpath
+# cleanup[2] removing genericpath
+# cleanup[2] removing os.path
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing sysconfig
+# destroy sysconfig
+# cleanup[2] removing _sysconfigdata_m_darwin_darwin
+# destroy _sysconfigdata_m_darwin_darwin
+# cleanup[2] removing _osx_support
+# destroy _osx_support
+# cleanup[2] removing re
+# cleanup[2] removing enum
+# cleanup[2] removing types
+# cleanup[2] removing functools
+# cleanup[2] removing _functools
+# cleanup[2] removing collections
+# cleanup[2] removing operator
+# cleanup[2] removing _operator
+# cleanup[2] removing keyword
+# destroy keyword
+# cleanup[2] removing heapq
+# cleanup[2] removing _heapq
+# cleanup[2] removing itertools
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing weakref
+# cleanup[2] removing collections.abc
+# cleanup[2] removing sre_compile
+# cleanup[2] removing _sre
+# cleanup[2] removing sre_parse
+# cleanup[2] removing sre_constants
+# destroy sre_constants
+# cleanup[2] removing copyreg
+# cleanup[2] removing importlib
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing warnings
+# cleanup[2] removing importlib.util
+# cleanup[2] removing importlib.abc
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing contextlib
+# destroy contextlib
+# cleanup[2] removing mpl_toolkits
+# destroy mpl_toolkits
+# cleanup[2] removing virtualenvwrapper
+# destroy virtualenvwrapper
+# cleanup[2] removing encodings.cp437
+# cleanup[2] removing urllib3
+# destroy urllib3
+# cleanup[2] removing __future__
+# destroy __future__
+# cleanup[2] removing urllib3.connectionpool
+# cleanup[2] removing logging
+# cleanup[2] removing time
+# cleanup[2] removing traceback
+# cleanup[2] removing linecache
+# cleanup[2] removing tokenize
+# cleanup[2] removing token
+# cleanup[2] removing string
+# cleanup[2] removing _string
+# cleanup[2] removing threading
+# cleanup[2] removing atexit
+# cleanup[2] removing socket
+# cleanup[2] removing _socket
+# cleanup[2] removing selectors
+# cleanup[2] removing math
+# cleanup[2] removing select
+# cleanup[2] removing urllib3.exceptions
+# cleanup[2] removing urllib3.packages
+# cleanup[2] removing urllib3.packages.ssl_match_hostname
+# cleanup[2] removing ssl
+# cleanup[2] removing ipaddress
+# cleanup[2] removing textwrap
+# cleanup[2] removing _ssl
+# cleanup[2] removing base64
+# cleanup[2] removing struct
+# cleanup[2] removing _struct
+# cleanup[2] removing binascii
+# cleanup[2] removing urllib3.packages.six
+# cleanup[2] removing urllib3.packages.six.moves
+# cleanup[2] removing http
+# cleanup[2] removing http.client
+# cleanup[2] removing email
+# cleanup[2] removing email.parser
+# cleanup[2] removing email.feedparser
+# cleanup[2] removing email.errors
+# cleanup[2] removing email._policybase
+# cleanup[2] removing email.header
+# cleanup[2] removing email.quoprimime
+# cleanup[2] removing email.base64mime
+# cleanup[2] removing email.charset
+# cleanup[2] removing email.encoders
+# cleanup[2] removing quopri
+# cleanup[2] removing email.utils
+# cleanup[2] removing random
+# cleanup[2] removing hashlib
+# cleanup[2] removing _hashlib
+# cleanup[2] removing _blake2
+# cleanup[2] removing _sha3
+# cleanup[2] removing bisect
+# cleanup[2] removing _bisect
+# cleanup[2] removing _random
+# cleanup[2] removing datetime
+# cleanup[2] removing _datetime
+# cleanup[2] removing urllib
+# cleanup[2] removing urllib.parse
+# cleanup[2] removing email._parseaddr
+# cleanup[2] removing calendar
+# cleanup[2] removing locale
+# cleanup[2] removing email.message
+# cleanup[2] removing uu
+# cleanup[2] removing email._encoded_words
+# cleanup[2] removing email.iterators
+# cleanup[2] removing urllib3.packages.six.moves.http_client
+# cleanup[2] removing queue
+# cleanup[2] removing urllib3.connection
+# cleanup[2] removing urllib3.util
+# cleanup[2] removing urllib3.util.connection
+# cleanup[2] removing urllib3.util.wait
+# cleanup[2] removing urllib3.util.selectors
+# cleanup[2] removing urllib3.util.request
+# cleanup[2] removing urllib3.util.response
+# cleanup[2] removing urllib3.util.ssl_
+# cleanup[2] removing hmac
+# cleanup[2] removing urllib3.util.timeout
+# cleanup[2] removing urllib3.util.retry
+# cleanup[2] removing urllib3.util.url
+# cleanup[2] removing urllib3._collections
+# cleanup[2] removing urllib3.request
+# cleanup[2] removing urllib3.filepost
+# cleanup[2] removing uuid
+# destroy uuid
+# cleanup[2] removing ctypes
+# cleanup[2] removing _ctypes
+# cleanup[2] removing ctypes._endian
+# cleanup[2] removing ctypes.util
+# cleanup[2] removing shutil
+# cleanup[2] removing fnmatch
+# cleanup[2] removing zlib
+# cleanup[2] removing bz2
+# destroy bz2
+# cleanup[2] removing _compression
+# cleanup[2] removing _bz2
+# cleanup[2] removing lzma
+# destroy lzma
+# cleanup[2] removing _lzma
+# cleanup[2] removing pwd
+# cleanup[2] removing grp
+# cleanup[2] removing subprocess
+# cleanup[2] removing signal
+# cleanup[2] removing _posixsubprocess
+# cleanup[2] removing ctypes.macholib
+# cleanup[2] removing ctypes.macholib.dyld
+# cleanup[2] removing ctypes.macholib.framework
+# cleanup[2] removing ctypes.macholib.dylib
+# cleanup[2] removing urllib3.fields
+# cleanup[2] removing mimetypes
+# cleanup[2] removing urllib3.packages.six.moves.urllib
+# cleanup[2] removing urllib3.packages.six.moves.urllib.parse
+# cleanup[2] removing urllib3.response
+# cleanup[2] removing urllib3.poolmanager
+# cleanup[2] removing bs4
+# destroy bs4
+# cleanup[2] removing bs4.builder
+# cleanup[2] removing bs4.element
+# cleanup[2] removing shlex
+# cleanup[2] removing bs4.dammit
+# cleanup[2] removing html
+# destroy html
+# cleanup[2] removing html.entities
+# cleanup[2] removing chardet
+# cleanup[2] removing chardet.compat
+# cleanup[2] removing chardet.universaldetector
+# cleanup[2] removing chardet.charsetgroupprober
+# cleanup[2] removing chardet.enums
+# cleanup[2] removing chardet.charsetprober
+# cleanup[2] removing chardet.escprober
+# cleanup[2] removing chardet.codingstatemachine
+# cleanup[2] removing chardet.escsm
+# cleanup[2] removing chardet.latin1prober
+# cleanup[2] removing chardet.mbcsgroupprober
+# cleanup[2] removing chardet.utf8prober
+# cleanup[2] removing chardet.mbcssm
+# cleanup[2] removing chardet.sjisprober
+# cleanup[2] removing chardet.mbcharsetprober
+# cleanup[2] removing chardet.chardistribution
+# cleanup[2] removing chardet.euctwfreq
+# cleanup[2] removing chardet.euckrfreq
+# cleanup[2] removing chardet.gb2312freq
+# cleanup[2] removing chardet.big5freq
+# cleanup[2] removing chardet.jisfreq
+# cleanup[2] removing chardet.jpcntx
+# cleanup[2] removing chardet.eucjpprober
+# cleanup[2] removing chardet.gb2312prober
+# cleanup[2] removing chardet.euckrprober
+# cleanup[2] removing chardet.cp949prober
+# cleanup[2] removing chardet.big5prober
+# cleanup[2] removing chardet.euctwprober
+# cleanup[2] removing chardet.sbcsgroupprober
+# cleanup[2] removing chardet.sbcharsetprober
+# cleanup[2] removing chardet.langcyrillicmodel
+# cleanup[2] removing chardet.langgreekmodel
+# cleanup[2] removing chardet.langbulgarianmodel
+# cleanup[2] removing chardet.langthaimodel
+# cleanup[2] removing chardet.langhebrewmodel
+# cleanup[2] removing chardet.hebrewprober
+# cleanup[2] removing chardet.langturkishmodel
+# cleanup[2] removing chardet.version
+# cleanup[2] removing unicodedata
+# cleanup[2] removing bs4.builder._htmlparser
+# cleanup[2] removing html.parser
+# cleanup[2] removing _markupbase
+# cleanup[2] removing bs4.builder._lxml
+# cleanup[2] removing lxml
+# destroy lxml
+# cleanup[2] removing _cython_0_28_3
+# destroy _cython_0_28_3
+# cleanup[2] removing cython_runtime
+# destroy cython_runtime
+# cleanup[2] removing lxml.etree
+# cleanup[2] removing lxml._elementpath
+# cleanup[2] removing inspect
+# cleanup[2] removing ast
+# cleanup[2] removing _ast
+# cleanup[2] removing dis
+# cleanup[2] removing opcode
+# destroy opcode
+# cleanup[2] removing _opcode
+# cleanup[2] removing gzip
+# destroy gzip
+# cleanup[2] removing encodings.idna
+# cleanup[2] removing stringprep
+# destroy _ast
+# destroy _bz2
+# destroy _datetime
+# destroy _sha3
+# destroy _blake2
+# destroy zipimport
+# destroy _sitebuiltins
+# destroy urllib3.packages
+# destroy urllib3.packages.ssl_match_hostname
+# destroy urllib3.exceptions
+# destroy urllib3.util
+# destroy urllib3.util.selectors
+# destroy urllib3.util.wait
+# destroy urllib3.util.request
+# destroy urllib3.util.response
+# destroy urllib3.util.ssl_
+# destroy urllib3.util.timeout
+# destroy urllib3.util.retry
+# destroy urllib3.util.url
+# destroy urllib3._collections
+# destroy urllib3.connection
+# destroy urllib3.fields
+# destroy urllib3.filepost
+# destroy urllib3.request
+# destroy urllib3.response
+# destroy urllib3.connectionpool
+# destroy urllib3.poolmanager
+# destroy weakref
+# destroy _string
+# destroy atexit
+# destroy _socket
+# destroy ipaddress
+# destroy textwrap
+# destroy _ssl
+# destroy operator
+# destroy urllib3.packages.six.moves
+# destroy queue
+# destroy urllib3.packages.six.moves.urllib
+# destroy urllib3.packages.six.moves.urllib_parse
+# destroy urllib3.packages.six.moves.urllib.error
+# destroy urllib3.packages.six.moves.urllib.request
+# destroy urllib3.packages.six.moves.urllib.response
+# destroy urllib3.packages.six.moves.urllib.robotparser
+# destroy http
+# destroy email.quoprimime
+# destroy email.base64mime
+# destroy email.encoders
+# destroy email._parseaddr
+# destroy email._policybase
+# destroy email.feedparser
+# destroy email.parser
+# destroy email._encoded_words
+# destroy email.iterators
+# destroy email.message
+# destroy email.header
+# destroy random
+# destroy bisect
+# destroy _random
+# destroy _bisect
+# destroy urllib.parse
+# destroy calendar
+# destroy locale
+# destroy encodings
+# destroy uu
+# destroy quopri
+# destroy email.utils
+# destroy email.charset
+# destroy base64
+# destroy email.errors
+# destroy datetime
+# destroy urllib3.util.connection
+# destroy socket
+# destroy hmac
+# destroy binascii
+# destroy _hashlib
+# destroy ssl
+# destroy hashlib
+# destroy ctypes
+# destroy _lzma
+# destroy email
+# destroy mimetypes
+# destroy urllib3.packages.six
+# destroy urllib
+# destroy http.client
+# destroy traceback
+# destroy bs4.dammit
+# destroy bs4.element
+# destroy bs4.builder
+# destroy bs4.builder._htmlparser
+# destroy bs4.builder._lxml
+# destroy shlex
+# destroy string
+# destroy chardet
+# destroy html.entities
+# destroy html.parser
+# destroy chardet.compat
+# destroy chardet.enums
+# destroy chardet.charsetprober
+# destroy chardet.charsetgroupprober
+# destroy chardet.codingstatemachine
+# destroy chardet.escsm
+# destroy chardet.escprober
+# destroy chardet.latin1prober
+# destroy chardet.mbcssm
+# destroy chardet.utf8prober
+# destroy chardet.mbcharsetprober
+# destroy chardet.euctwfreq
+# destroy chardet.euckrfreq
+# destroy chardet.gb2312freq
+# destroy chardet.big5freq
+# destroy chardet.jisfreq
+# destroy chardet.chardistribution
+# destroy chardet.jpcntx
+# destroy chardet.sjisprober
+# destroy chardet.eucjpprober
+# destroy chardet.gb2312prober
+# destroy chardet.euckrprober
+# destroy chardet.cp949prober
+# destroy chardet.big5prober
+# destroy chardet.euctwprober
+# destroy chardet.mbcsgroupprober
+# destroy chardet.sbcharsetprober
+# destroy chardet.langcyrillicmodel
+# destroy chardet.langgreekmodel
+# destroy chardet.langbulgarianmodel
+# destroy chardet.langthaimodel
+# destroy chardet.langhebrewmodel
+# destroy chardet.hebrewprober
+# destroy chardet.langturkishmodel
+# destroy chardet.sbcsgroupprober
+# destroy chardet.universaldetector
+# destroy chardet.version
+# destroy logging
+# destroy unicodedata
+# destroy _markupbase
+# destroy lxml.etree
+# destroy lxml._elementpath
+# cleanup[3] wiping _frozen_importlib
+# cleanup[3] wiping _imp
+# cleanup[3] wiping _warnings
+# cleanup[3] wiping _thread
+# cleanup[3] wiping _weakref
+# cleanup[3] wiping _frozen_importlib_external
+# cleanup[3] wiping _io
+# cleanup[3] wiping marshal
+# destroy marshal
+# cleanup[3] wiping posix
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping _signal
+# cleanup[3] wiping encodings.latin_1
+# cleanup[3] wiping io
+# cleanup[3] wiping abc
+# cleanup[3] wiping _locale
+# cleanup[3] wiping os
+# cleanup[3] wiping errno
+# cleanup[3] wiping stat
+# cleanup[3] wiping _stat
+# destroy _stat
+# cleanup[3] wiping posixpath
+# destroy genericpath
+# cleanup[3] wiping os.path
+# cleanup[3] wiping _collections_abc
+# cleanup[3] wiping re
+# destroy _locale
+# destroy sre_compile
+# destroy copyreg
+# cleanup[3] wiping enum
+# cleanup[3] wiping types
+# cleanup[3] wiping functools
+# cleanup[3] wiping _functools
+# destroy _functools
+# cleanup[3] wiping collections
+# destroy heapq
+# destroy collections.abc
+# cleanup[3] wiping _operator
+# destroy _operator
+# cleanup[3] wiping _heapq
+# cleanup[3] wiping itertools
+# cleanup[3] wiping _collections
+# destroy _collections
+# cleanup[3] wiping _sre
+# cleanup[3] wiping sre_parse
+# cleanup[3] wiping importlib
+# destroy importlib.util
+# cleanup[3] wiping importlib._bootstrap
+# cleanup[3] wiping importlib._bootstrap_external
+# cleanup[3] wiping warnings
+# cleanup[3] wiping importlib.abc
+# destroy _frozen_importlib_external
+# destroy importlib.machinery
+# cleanup[3] wiping encodings.cp437
+# cleanup[3] wiping time
+# cleanup[3] wiping linecache
+# cleanup[3] wiping tokenize
+# destroy io
+# cleanup[3] wiping token
+# cleanup[3] wiping threading
+# cleanup[3] wiping selectors
+# cleanup[3] wiping math
+# destroy math
+# cleanup[3] wiping select
+# cleanup[3] wiping struct
+# cleanup[3] wiping _struct
+# cleanup[3] wiping _ctypes
+# cleanup[3] wiping ctypes._endian
+# cleanup[3] wiping ctypes.util
+# destroy shutil
+# destroy subprocess
+# cleanup[3] wiping fnmatch
+# destroy posixpath
+# cleanup[3] wiping zlib
+# cleanup[3] wiping _compression
+# cleanup[3] wiping pwd
+# cleanup[3] wiping grp
+# cleanup[3] wiping signal
+# destroy _signal
+# cleanup[3] wiping _posixsubprocess
+# cleanup[3] wiping ctypes.macholib
+# destroy ctypes.macholib.framework
+# destroy ctypes.macholib.dylib
+# destroy ctypes.macholib.dyld
+# cleanup[3] wiping inspect
+# destroy ast
+# destroy dis
+# destroy enum
+# destroy importlib
+# destroy tokenize
+# destroy token
+# cleanup[3] wiping _opcode
+# cleanup[3] wiping encodings.idna
+# destroy stringprep
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+# destroy _sre
+# destroy sre_parse
+# destroy _thread
+# destroy _weakref
+# destroy struct
+# destroy zlib
+# destroy _compression
+# destroy _heapq
+# destroy _opcode
+# destroy inspect
+# destroy re
+# destroy stat
+# destroy fnmatch
+# destroy pwd
+# destroy grp
+# destroy io
+# destroy signal
+# destroy errno
+# destroy time
+# destroy _posixsubprocess
+# destroy selectors
+# destroy threading
+# destroy _imp
+# destroy importlib.abc
+# destroy functools
+# destroy types
+# destroy warnings
+# destroy _warnings
+# destroy posix
+# destroy abc
+# destroy _collections_abc
+# destroy select
+# destroy collections
+# destroy itertools
+# destroy linecache
+# destroy _frozen_importlib
